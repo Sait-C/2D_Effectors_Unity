@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: 5aaa4cca91bd981439017eddd1fbc1ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7878344385331480422
+    second: Zwater(160x64)_0
+  - first:
+      213: 3031144234483215428
+    second: Zwater(160x64)_1
+  - first:
+      213: 7372182969405145236
+    second: Zwater(160x64)_2
+  - first:
+      213: -3908870088190917425
+    second: Zwater(160x64)_3
+  - first:
+      213: -518219688550921615
+    second: Zwater(160x64)_4
+  - first:
+      213: -7295221549019104401
+    second: Zwater(160x64)_5
+  - first:
+      213: -3725342754258085110
+    second: Zwater(160x64)_6
+  - first:
+      213: -282284689114638084
+    second: Zwater(160x64)_7
+  - first:
+      213: 869649206635171126
+    second: Zwater(160x64)_8
+  - first:
+      213: -5444881196275427461
+    second: Zwater(160x64)_9
+  - first:
+      213: -4438417488370647739
+    second: Zwater(160x64)_10
+  - first:
+      213: 8276234430327314967
+    second: Zwater(160x64)_11
+  - first:
+      213: 9153447232715970646
+    second: Zwater(160x64)_12
+  - first:
+      213: -5513315699513678185
+    second: Zwater(160x64)_13
+  - first:
+      213: 3746617060352917325
+    second: Zwater(160x64)_14
+  - first:
+      213: 6713117193595068334
+    second: Zwater(160x64)_15
+  - first:
+      213: 8672081358810899732
+    second: Zwater(160x64)_16
+  - first:
+      213: -8396142174891623631
+    second: Zwater(160x64)_17
+  - first:
+      213: 1253070410761183095
+    second: Zwater(160x64)_18
+  - first:
+      213: 8113900763036765279
+    second: Zwater(160x64)_19
+  - first:
+      213: -1533832147022062375
+    second: Zwater(160x64)_20
+  - first:
+      213: 8030173330101228962
+    second: Zwater(160x64)_21
+  - first:
+      213: 1297406093115949661
+    second: Zwater(160x64)_22
+  - first:
+      213: -8107746189216928203
+    second: Zwater(160x64)_23
+  - first:
+      213: 3113284421823960933
+    second: Zwater(160x64)_24
+  - first:
+      213: 6473805645899892593
+    second: Zwater(160x64)_25
+  - first:
+      213: -5545909374870156259
+    second: Zwater(160x64)_26
+  - first:
+      213: 5628730278938562530
+    second: Zwater(160x64)_27
+  - first:
+      213: 4181434117675846138
+    second: Zwater(160x64)_28
+  - first:
+      213: -6167146257488507744
+    second: Zwater(160x64)_29
+  - first:
+      213: -7562988497789751037
+    second: Zwater(160x64)_30
+  - first:
+      213: 7701336056875876264
+    second: Zwater(160x64)_31
+  - first:
+      213: -3557608196390283380
+    second: Zwater(160x64)_32
+  - first:
+      213: -2693363380362701699
+    second: Zwater(160x64)_33
+  - first:
+      213: 2781351306679264999
+    second: Zwater(160x64)_34
+  - first:
+      213: 3951079059970448365
+    second: Zwater(160x64)_35
+  - first:
+      213: -5024456818244103831
+    second: Zwater(160x64)_36
+  - first:
+      213: -4404798875271104201
+    second: Zwater(160x64)_37
+  - first:
+      213: 5229998252850115691
+    second: Zwater(160x64)_38
+  - first:
+      213: -3880225743495364752
+    second: Zwater(160x64)_39
+  - first:
+      213: -368816929067511189
+    second: Zwater(160x64)_40
+  - first:
+      213: 89545468649420062
+    second: Zwater(160x64)_41
+  - first:
+      213: 2524502746422546265
+    second: Zwater(160x64)_42
+  - first:
+      213: -256072893408251977
+    second: Zwater(160x64)_43
+  - first:
+      213: 6685011862755838549
+    second: Zwater(160x64)_44
+  - first:
+      213: 4361941322254698629
+    second: Zwater(160x64)_45
+  - first:
+      213: 6554432993762206563
+    second: Zwater(160x64)_46
+  - first:
+      213: 8904730702866588575
+    second: Zwater(160x64)_47
+  - first:
+      213: 4845824885076523669
+    second: Zwater(160x64)_48
+  - first:
+      213: 460012822838991164
+    second: Zwater(160x64)_49
+  - first:
+      213: -7863638185514732517
+    second: Zwater(160x64)_50
+  - first:
+      213: -2205270406392856501
+    second: Zwater(160x64)_51
+  - first:
+      213: 4752205188850277191
+    second: Zwater(160x64)_52
+  - first:
+      213: 3505462742342879706
+    second: Zwater(160x64)_53
+  - first:
+      213: -8573939645193311347
+    second: Zwater(160x64)_54
+  - first:
+      213: 3322135395512747771
+    second: Zwater(160x64)_55
+  - first:
+      213: 6473710039513617524
+    second: Zwater(160x64)_56
+  - first:
+      213: -1711450244984093481
+    second: Zwater(160x64)_57
+  - first:
+      213: -727715342388896086
+    second: Zwater(160x64)_58
+  - first:
+      213: 4056217545384326519
+    second: Zwater(160x64)_59
+  - first:
+      213: 5023168977604897024
+    second: Zwater(160x64)_60
+  - first:
+      213: 8810853594885606426
+    second: Zwater(160x64)_61
+  - first:
+      213: -4799049735798781095
+    second: Zwater(160x64)_62
+  - first:
+      213: -6599241049782822953
+    second: Zwater(160x64)_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zwater(160x64)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98bf16d58f7aa290800000000000000
+      internalID: -7878344385331480422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc40b386d57e0c9c0800000000000000
+      internalID: -3908870088190917425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 384
+        width: 161
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a0f4c50f9eec8f0800000000000000
+      internalID: -518219688550921615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1fd1b08cec4cc0800000000000000
+      internalID: -3725342754258085110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85ac3229f151cf0800000000000000
+      internalID: -282284689114638084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d80b8885d911c00800000000000000
+      internalID: 869649206635171126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779cc37665ef64b0800000000000000
+      internalID: -5444881196275427461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 256
+        width: 161
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d39c06fc29762c0800000000000000
+      internalID: -4438417488370647739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a54817d571bd270800000000000000
+      internalID: 8276234430327314967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6585158d2c3970f70800000000000000
+      internalID: 9153447232715970646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 192
+        width: 161
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79627e30594cc73b0800000000000000
+      internalID: -5513315699513678185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff0cfad58aef330800000000000000
+      internalID: 3746617060352917325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf1dcb1588c92d50800000000000000
+      internalID: 6713117193595068334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 161
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e5379c0c695870800000000000000
+      internalID: 8672081358810899732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 127
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bb8e53d29ea7b80800000000000000
+      internalID: -8396142174891623631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f19f746ecc36110800000000000000
+      internalID: 1253070410761183095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 161
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cc39331cd5a9070800000000000000
+      internalID: 8113900763036765279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcdca3f9cbb6bae0800000000000000
+      internalID: -1533832147022062375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5df791918e07f60800000000000000
+      internalID: 8030173330101228962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 161
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528a9db7ff410210800000000000000
+      internalID: 1297406093115949661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwater(160x64)_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea2be2ccf7b7f80800000000000000
+      internalID: -8107746189216928203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
